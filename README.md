@@ -2,6 +2,8 @@
 
 A Firefox extension to help users take a break from Reddit during designated hours.
 
+![Screenshot](https://github.com/arjitsrivastava/1-1-Generator/blob/main/reddit-detox-sample.png)
+
 ## Features
 
 - **Time Setting**: Set a start and end time to make Reddit inaccessible during those hours.
