@@ -2,7 +2,7 @@
 
 A Firefox extension to help users take a break from Reddit during designated hours.
 
-![Screenshot](https://github.com/arjitsrivastava/1-1-Generator/blob/main/reddit-detox-sample.png)
+![Screenshot](https://github.com/arjitsrivastava/reddit-detox/blob/main/reddit-detox-sample.png)
 
 ## Features
 
