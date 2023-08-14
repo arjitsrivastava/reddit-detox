@@ -13,7 +13,9 @@ A Firefox extension to help users take a break from Reddit during designated hou
 - **Data Privacy**: The extension does not collect, store, or transmit any user data.
 
 ## Installation
+1. Add it from the Mozilla Add-ons [here](https://addons.mozilla.org/en-US/firefox/addon/reddit-detox/)
 
+## Testing
 1. Clone this repository.
 2. Follow the instructions [here](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/) to load the extension into Firefox for testing.
 
